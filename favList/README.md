@@ -12,8 +12,7 @@ Each movie includes a poster, title, subtitle, rating from 0 to 5 stars, and a s
 
 The application is built using UIKit and Storyboard. It uses a UITableView to display movies and a UINavigationController to navigate between the list and detail screens.
 
-## Features<img width="76" height="80" alt="Screenshot 2026-11-13 at 22 39 48" src="https://github.com/user-attachments/assets/67fdfc67-b5b7-48ab-ae52-c5fb9ff165a9" />
-
+## Features
 - Displays 22 favorite movies.
 - Custom UITableViewCell with movie posters and titles.
 - Navigation to a detailed movie screen.
