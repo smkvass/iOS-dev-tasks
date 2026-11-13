@@ -28,7 +28,8 @@ The application is built using UIKit and Storyboard. It uses a UITableView to di
 
 
 ### Movie Details
-<img width="376" height="757" alt="Screenshot 2026-11-13 at 22 40 34" src="https://github.com/user-attachments/assets/957ded36-e303-425a-9af4-cf71738d6d9c" />
+<img width="380" height="762" alt="Screenshot 2026-11-13 at 22 40 59" src="https://github.com/user-attachments/assets/5f5e17fa-8694-4f16-ad24-d7fb1f5fc456" />
+
 
 
 
