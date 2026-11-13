@@ -26,15 +26,15 @@
                                 <rect key="frame" x="0.0" y="280" width="440" height="608"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="FavoriteCell" rowHeight="170" id="wAM-AH-1uG" customClass="FavoriteCell" customModule="favList" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="FavoriteCell" rowHeight="170" id="wAM-AH-1uG" customClass="FavoriteCell" customModule="favList" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="50" width="440" height="170"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="wAM-AH-1uG" id="Wby-ZH-bFv">
-                                            <rect key="frame" x="0.0" y="0.0" width="440" height="170"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="409.66666666666669" height="170"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BB6-Zd-GNk">
-                                                    <rect key="frame" x="8" y="12" width="424" height="146"/>
+                                                    <rect key="frame" x="8" y="12" width="393.66666666666669" height="146"/>
                                                     <subviews>
                                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cruella" id="Gs2-EA-CTi">
                                                             <rect key="frame" x="23" y="8" width="90" height="130"/>
